@@ -1,0 +1,22 @@
+{
+  "name": "euler-node",
+  "version": "0.0.1",
+  "description": "euler in node",
+  "main": "index.js",
+  "scripts": {
+    "start": "supervisor index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/clamey/euler-node.git"
+  },
+  "author": "clamey@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clamey/euler-node/issues"
+  },
+  "homepage": "https://github.com/clamey/euler-node#readme",
+  "dependencies": {
+    "routes": "^2.1.0"
+  }
+}
